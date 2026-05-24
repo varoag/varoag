@@ -55,15 +55,19 @@ Rather than treating engineering models as isolated calculations, I focus on bui
 
 > Scientific framework for computer-aided molecular and solvent design (CAMD)
 
-MORITA integrates:
+MORITA is my flagship scientific software project: a computational framework for computer-aided molecular and solvent design (CAMD) focused on liquid-liquid extraction systems and multi-objective optimization.
+
+The platform integrates:
 
 - UNIFAC / UNIFAC-Dortmund thermodynamic models
-- SMARTS-based molecular fragmentation
-- multi-objective optimization
+- Group contribution methods
+- Molecular fragmentation workflows using SMARTS/RDKit
+- Multi-objective optimization strategies
 - Pareto-front analysis
-- molecular database workflows
-- engineering-oriented GUI systems
-- computational decision-support architectures
+- Molecular database integration
+- Scientific GUI architectures in Python
+
+The system was designed to translate molecular design problems into explicit optimization structures balancing selectivity, partition performance, solvent loss, environmental impact, and process feasibility.
 
 ---
 
@@ -92,14 +96,24 @@ F --> G
 
 ## 🏭 Industrial Process Simulation & Energy Systems
 
-Development of simulation-oriented computational frameworks for:
+I also develop simulation-oriented workflows for industrial facilities involving:
 
+- mass and energy balances
+- heat-transfer systems
 - biodiesel production plants
-- thermal integration systems
-- mass & energy balance analysis
+- thermal integration
 - process optimization
-- industrial energy evaluation
-- engineering-economic analysis
+- operational engineering analysis
+
+These projects combine:
+
+- Aspen Plus / HYSYS interoperability
+- Python-based computational engines
+- Excel-driven engineering interfaces
+- automated reporting systems
+- engineering-economic evaluation frameworks
+
+The objective is not only simulation itself, but the creation of computational decision-support environments for industrial engineering.
 
 ---
 
@@ -128,17 +142,17 @@ F --> G
 
 ## 🧩 Scientific Software Infrastructure
 
-I also work on the development of computational infrastructure for engineering applications, including:
+Beyond numerical modeling, I work on scientific software infrastructure:
 
-- MVC-based scientific architectures
+- MVC architectures for engineering applications
+- Tkinter-based scientific GUIs
 - modular simulation engines
-- scientific GUI systems
 - engineering workflow automation
-- data-processing pipelines
-- scientific visualization systems
-- computational engineering interfaces
+- scientific data pipelines
+- engineering visualization systems
+- simulation-oriented software design
 
-A major focus of my work is designing software systems that remain extensible, interpretable, and technically rigorous under increasing engineering complexity.
+A major focus of my work is making scientific models operationally usable while preserving technical rigor and extensibility.
 
 ---
 
@@ -148,13 +162,14 @@ A major focus of my work is designing software systems that remain extensible, i
 
 | Domain | Technologies |
 |---|---|
-| Scientific Programming | Python · MATLAB · R · SQL · Bash |
-| Scientific Computing | NumPy · SciPy · pandas |
-| Thermodynamics | UNIFAC · UNIFAC-Dortmund · Phase Equilibrium |
-| Process Simulation | Aspen Plus · HYSYS · DWSIM |
-| Molecular Informatics | RDKit · SMARTS · Group Contribution Methods |
-| Optimization | Multi-objective Optimization · Evolutionary Algorithms |
-| Software Architecture | MVC · Modular Systems · GUI Engineering |
+| Scientific Programming | Python · MATLAB · R · SQL · Bash · Git |
+| Scientific Computing | NumPy · SciPy · Pandas · Numerical Optimization · Matrix Methods · Nonlinear Systems |
+| Thermodynamic modeling | UNIFAC · UNIFAC-Dortmund · activity coefficient models · Phase Equilibrium · LLE Modeling |
+| Optimization modeling | Multi-objective optimization · Pareto analysis · Evolutionary Algorithms |
+| Process Simulation | Aspen Plus · HYSYS · DWSIM · Process Integration · Energy Analysis |
+| Molecular Informatics | RDKit · SMARTS Fragmentation · Group Contribution Systems · Molecular Representation Workflows |
+| Software Architecture | MVC Design · Scientific GUI Development · Modular Engineering Software · GUI Engineering |
+| Engineering Systems | Industrial Process Analysis, Operational Modeling, Heat-Transfer Systems, Techno-Economic Workflows |
 | Data Infrastructure | MongoDB · Excel Automation · JSON Pipelines |
 
 </div>
