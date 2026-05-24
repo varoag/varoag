@@ -20,6 +20,10 @@
 
 ### Building computational infrastructure for engineering systems.
 
+> Engineering software should not merely automate calculations.  
+> It should expose assumptions, preserve structure, support reasoning,  
+> and transform complex systems into interpretable computational models.
+
 </div>
 
 ---
@@ -239,13 +243,5 @@ My long-term goal is to build computational platforms that bridge scientific rig
 </a>
 
 </p>
-
----
-
-# ⚡ Engineering Perspective
-
-> Engineering software should not merely automate calculations.  
-> It should expose assumptions, preserve structure, support reasoning,  
-> and transform complex systems into interpretable computational models.
 
 ---
