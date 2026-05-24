@@ -26,8 +26,6 @@
 
 </div>
 
----
-
 # 🧠 Computational Engineering Philosophy
 
 I develop computational systems for representing, simulating, and optimizing complex engineering processes across molecular, thermodynamic, and industrial scales.
@@ -45,11 +43,8 @@ to create engineering-oriented computational infrastructures that preserve scien
 
 Rather than treating engineering models as isolated calculations, I focus on building integrated systems where physical assumptions, optimization logic, computational workflows, and software architecture remain explicitly connected.
 
----
 
 # 🚀 Core Systems
-
----
 
 ## 🔷 MORITA  
 ### *Multi-Objective Resolution Interface Toted Up with Aromatics*
@@ -69,8 +64,6 @@ The platform integrates:
 - Scientific GUI architectures in Python
 
 The system was designed to translate molecular design problems into explicit optimization structures balancing selectivity, partition performance, solvent loss, environmental impact, and process feasibility.
-
----
 
 ## 🏭 Industrial Process Simulation & Energy Systems
 
@@ -93,8 +86,6 @@ These projects combine:
 
 The objective is not only simulation itself, but the creation of computational decision-support environments for industrial engineering.
 
----
-
 ## 🧩 Scientific Software Infrastructure
 
 Beyond numerical modeling, I work on scientific software infrastructure:
@@ -108,8 +99,6 @@ Beyond numerical modeling, I work on scientific software infrastructure:
 - simulation-oriented software design
 
 A major focus of my work is making scientific models operationally usable while preserving technical rigor and extensibility.
-
----
 
 # 🛠️ Computational Stack
 
@@ -129,8 +118,6 @@ A major focus of my work is making scientific models operationally usable while 
 
 </div>
 
----
-
 # 📊 Computational Domains
 
 ```mermaid
@@ -145,8 +132,6 @@ mindmap
     Industrial AI
     Computational Infrastructure
 ```
-
----
 
 ## 💪🏻 Selected Technologies
 
@@ -200,15 +185,10 @@ mindmap
 
 # 📈 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+[![](https://github-readme-stats.vercel.app/api?username=varoag&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/varoag)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=varoag&theme=material-palenight)](https://github.com/varoag)
 
 </div>
-
----
 
 # 🔬 Research & Technical Interests
 
@@ -223,8 +203,6 @@ mindmap
 - Computational Infrastructure for Engineering
 
 My long-term goal is to build computational platforms that bridge scientific rigor, industrial applicability, and scalable engineering software.
-
----
 
 # 🌐 Connect
 
@@ -243,5 +221,3 @@ My long-term goal is to build computational platforms that bridge scientific rig
 </a>
 
 </p>
-
----
