@@ -1,14 +1,8 @@
 <div align="center">
 
 # Hi, I'm Victor Roa 👋🏻👋🏻
-### Chemical Engineer - MSc. 
-### Computational Process Systems Engineer  
-### Scientific Software Architect · Thermodynamic Modeling · Industrial Simulation
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Scientific+Software+Engineering;Thermodynamic+Modeling+Systems;Industrial+Process+Simulation;Computer-Aided+Molecular+Design;Optimization-Driven+Engineering;Building+Computational+Infrastructure+for+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Chemical+Engineer+-+MSc.;Computational+Process+System+Engineer;Scientific+Software+Engineering;Scientific+Software+Architect;Thermodynamic+Systems+Modeler;Industrial+Process+Simulation++Developer;Computer-Aided+Molecular+Designer;Optimization-Driven+Engineer;Building+Computational+Infrastructure+for+Engineering" />
 </p>
 
 ---
