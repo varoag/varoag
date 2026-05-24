@@ -1,21 +1,24 @@
 <div align="center">
 
 # Hi, I'm Victor Roa 👋🏻👋🏻
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Chemical+Engineer+-+MSc.;Computational+Process+System+Engineer;Scientific+Software+Engineering;Scientific+Software+Architect;Thermodynamic+Systems+Modeler;Industrial+Process+Simulation++Developer;Computer-Aided+Molecular+Designer;Optimization-Driven+Engineer;Building+Computational+Infrastructure+for+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Chemical+Engineer+-+MSc.;Computational+Process+Systems+Engineer;Scientific+Software+Architect;Thermodynamic+Systems+Modeler;Computer-Aided+Molecular+Designer;Building+Computational+Infrastructure+for+Engineering" />
 </p>
 
----
-
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-Scientific_Computing-blue?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/Process_Systems-Engineering-0F172A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Thermodynamics-Modeling-1D4ED8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CAMD-Optimization-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scientific-Software-334155?style=for-the-badge"/>
 
 </p>
+
+</div>
+
+<div align="center">
+
+### Building computational infrastructure for engineering systems.
 
 </div>
 
@@ -57,22 +60,26 @@ Rather than treating engineering models as isolated calculations, I focus on bui
   
 </span>
 
-<h4> ML/AI </h4>
+<h4> Scientific Computing </h4>
 <span>
   <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
 </span>
 
-<h4> Artificial Intelligence </h4>
+<h4> AI/LLM Ecosystem </h4>
 <span>
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white">
   <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-  <img src="Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F">
+  <img src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F">
+</span>
+
+<h4> Deep Learning </h4>
+<span>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
 </span>
 
 <h4> Databases </h4>
@@ -84,32 +91,6 @@ Rather than treating engineering models as isolated calculations, I focus on bui
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white">
-</span>
-
-<h4> Developer Forums </h4>
-<span>
-  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white">
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-</span>
-
-<h4> Education platforms </h4>
-<span>
-  <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A">
-  <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">
-  <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
-  <img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white">
-  <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
-  <img src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white">
-  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
-  
-</span>
-
-<h4> Computer-aided design software - CAD </h4>
-<span>
-  <img src="https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white">
-  <img src="https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white">
-  <img src="https://img.shields.io/badge/SketchUp-%23005F9E.svg?style=for-the-badge&logo=sketchup&logoColor=white">
 </span>
 
 ---
@@ -270,9 +251,3 @@ My long-term goal is to build computational platforms that bridge scientific rig
 > and transform complex systems into interpretable computational models.
 
 ---
-
-<div align="center">
-
-### Building computational infrastructure for engineering systems.
-
-</div>
