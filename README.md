@@ -19,7 +19,28 @@
 
 </div>
 
-## My Skills Include
+---
+
+# 🧠 Computational Engineering Philosophy
+
+I develop computational systems for representing, simulating, and optimizing complex engineering processes across molecular, thermodynamic, and industrial scales.
+
+My work combines:
+
+- process systems engineering
+- scientific computing
+- thermodynamic modeling
+- optimization theory
+- molecular informatics
+- engineering software architecture
+
+to create engineering-oriented computational infrastructures that preserve scientific structure while supporting industrial decision-making.
+
+Rather than treating engineering models as isolated calculations, I focus on building integrated systems where physical assumptions, optimization logic, computational workflows, and software architecture remain explicitly connected.
+
+---
+
+## 💪🏻 My Skills Include
 
 <h4> Languages </h4>
 <span>
@@ -57,6 +78,7 @@
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -77,6 +99,7 @@
   <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
   <img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white">
   <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
   <img src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white">
   <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
   
@@ -88,25 +111,6 @@
   <img src="https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white">
   <img src="https://img.shields.io/badge/SketchUp-%23005F9E.svg?style=for-the-badge&logo=sketchup&logoColor=white">
 </span>
-
----
-
-# 🧠 Computational Engineering Philosophy
-
-I develop computational systems for representing, simulating, and optimizing complex engineering processes across molecular, thermodynamic, and industrial scales.
-
-My work combines:
-
-- process systems engineering
-- scientific computing
-- thermodynamic modeling
-- optimization theory
-- molecular informatics
-- engineering software architecture
-
-to create engineering-oriented computational infrastructures that preserve scientific structure while supporting industrial decision-making.
-
-Rather than treating engineering models as isolated calculations, I focus on building integrated systems where physical assumptions, optimization logic, computational workflows, and software architecture remain explicitly connected.
 
 ---
 
