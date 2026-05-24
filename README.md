@@ -217,17 +217,19 @@ mindmap
 - Scientific Workflow Automation
 - Computational Infrastructure for Engineering
 
+My long-term goal is to build computational platforms that bridge scientific rigor, industrial applicability, and scalable engineering software.
+
 ---
 
 # 🌐 Connect
 
 <p align="left">
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/varoag">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/TU_LINKEDIN">
+<a href="https://linkedin.com/in/varoag">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
