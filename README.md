@@ -1,7 +1,7 @@
 <div align="center">
 
-# ⚙️ Victor Roa
-
+# Hi, I'm Victor Roa 👋🏻👋🏻
+### Chemical Engineer - MSc. 
 ### Computational Process Systems Engineer  
 ### Scientific Software Architect · Thermodynamic Modeling · Industrial Simulation
 
