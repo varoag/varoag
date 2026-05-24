@@ -1,103 +1,181 @@
-# Hi, I’m Victor Roa
 
-**Computational process systems engineer**
+# ⚙️ Victor Roa
 
-**Scientific software · thermodynamic modeling · industrial process simulation · optimization-driven engineering**
+### Computational Process Systems Engineer
+
+### Scientific Software · Thermodynamic Modeling · Industrial Process Simulation
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=900&lines=Scientific+Software+Developer;Process+Systems+Engineer;Thermodynamic+Modeling;CAMD+%7C+Optimization+%7C+Industrial+Simulation;Building+Computational+Frameworks+for+Engineering" />
+</p>
+
+---
+
+## 🧠 About me
 
 I develop scientific and industrial software for representing, simulating, and optimizing complex chemical and energy systems.
 
-My work integrates thermodynamics, process systems engineering, scientific computing, and software architecture to build computational frameworks capable of translating industrial and molecular-scale problems into structured, analyzable, and decision-oriented models.
+My work integrates:
 
-This GitHub gathers projects developed across process simulation, computer-aided molecular design (CAMD), thermodynamic modeling, optimization, scientific automation, and engineering software infrastructure. Although the application domains vary — from separation processes and biodiesel facilities to molecular fragmentation and energy integration — the underlying objective remains consistent: designing computational systems that preserve engineering structure, improve interpretability, and support technically rigorous decision-making.
+- thermodynamics
+- process systems engineering
+- scientific computing
+- optimization
+- molecular informatics
+- engineering software architecture
 
-Contact: [victoroa.13@gmail.com](); [varoag@unal.edu.co](varoag@unal.edu.c)
-
-
----
-
-## What I build
-
-### MORITA — Multi-Objective Resolution Interface Toted Up with Aromatics
-
-`MORITA` is my flagship scientific software project: a computational framework for computer-aided molecular and solvent design (CAMD) focused on liquid-liquid extraction systems and multi-objective optimization.
-
-The platform integrates:
-
-* UNIFAC / UNIFAC-Dortmund thermodynamic models
-* Group contribution methods
-* Molecular fragmentation workflows using SMARTS/RDKit
-* Multi-objective optimization strategies
-* Pareto-front analysis
-* Molecular database integration
-* Scientific GUI architectures in Python
-
-The system was designed to translate molecular design problems into explicit optimization structures balancing selectivity, partition performance, solvent loss, environmental impact, and process feasibility.
+to build computational systems capable of translating industrial and molecular-scale problems into structured and decision-oriented models.
 
 ---
 
-### Industrial process simulation and energy systems
+# 🚀 Main Projects
 
-I also develop simulation-oriented workflows for industrial facilities involving:
+## 🔷 MORITA
 
-* mass and energy balances
-* heat-transfer systems
-* biodiesel production plants
-* thermal integration
-* process optimization
-* operational engineering analysis
+### Multi-Objective Resolution Interface Toted Up with Aromatics
 
-These projects combine:
+Scientific framework for:
 
-* Aspen Plus / HYSYS interoperability
-* Python-based computational engines
-* Excel-driven engineering interfaces
-* automated reporting systems
-* engineering-economic evaluation frameworks
+- Computer-Aided Molecular Design (CAMD)
+- Liquid-Liquid Extraction systems
+- Multi-objective optimization
+- Thermodynamic modeling
+- Molecular fragmentation workflows
 
-The objective is not only simulation itself, but the creation of computational decision-support environments for industrial engineering.
+### Integrated technologies
 
----
-
-### Scientific software architecture
-
-Beyond numerical modeling, I work on scientific software infrastructure:
-
-* MVC architectures for engineering applications
-* Tkinter-based scientific GUIs
-* modular simulation engines
-* engineering workflow automation
-* scientific data pipelines
-* engineering visualization systems
-* simulation-oriented software design
-
-A major focus of my work is making scientific models operationally usable while preserving technical rigor and extensibility.
+| Area                 | Technologies                               |
+| -------------------- | ------------------------------------------ |
+| Thermodynamics       | UNIFAC · UNIFAC-Dortmund                  |
+| Molecular modeling   | RDKit · SMARTS                            |
+| Optimization         | Evolutionary Algorithms · Pareto Analysis |
+| GUI                  | Tkinter · MVC                             |
+| Databases            | MongoDB                                    |
+| Scientific Computing | NumPy · SciPy · pandas                   |
 
 ---
 
-## Computational profile
+## 🏭 Industrial Process Simulation
 
-* **Scientific programming:** Python, MATLAB, R, SQL, Bash, Git
-* **Scientific computing:** NumPy, pandas, SciPy, numerical optimization, matrix methods, nonlinear systems
-* **Thermodynamic modeling:** UNIFAC, UNIFAC-Dortmund, activity coefficient models, phase equilibrium, LLE modeling
-* **Optimization systems:** multi-objective optimization, Pareto analysis, evolutionary algorithms, CAMD
-* **Process simulation:** Aspen Plus, HYSYS, DWSIM, process integration, energy analysis
-* **Molecular informatics:** RDKit, SMARTS fragmentation, group contribution systems, molecular representation workflows
-* **Software architecture:** MVC design, scientific GUI development, modular engineering software
-* **Engineering systems:** industrial process analysis, operational modeling, heat-transfer systems, techno-economic workflows
+Development of computational workflows for:
+
+- Biodiesel facilities
+- Heat-transfer systems
+- Energy integration
+- Process optimization
+- Mass & energy balances
+- Engineering-economic evaluation
+
+### Toolchain
+
+```text
+Excel Interface
+      ↓
+ JSON Translation Layer
+      ↓
+Python Computational Engine
+      ↓
+Simulation & Optimization
+      ↓
+Automated Reporting
+```
 
 ---
 
-## Research and technical interests
+## 🧩 Scientific Software Architecture
 
-I’m especially interested in:
+I also work on:
 
-* scientific software engineering
-* computational thermodynamics
-* process systems engineering
-* optimization-driven process design
-* digital engineering infrastructure
-* industrial AI-assisted engineering
-* computer-aided molecular design
-* scientific workflow automation
+- MVC architectures
+- Scientific GUI systems
+- Engineering workflow automation
+- Modular simulation engines
+- Computational infrastructure for engineering applications
 
-My long-term goal is to build computational platforms that bridge scientific rigor, industrial applicability, and scalable engineering software.
+---
+
+# 🛠️ Computational Profile
+
+<div align="center">
+
+| Domain                 | Stack                                                   |
+| ---------------------- | ------------------------------------------------------- |
+| Scientific Programming | Python · MATLAB · R · SQL                            |
+| Scientific Computing   | NumPy · SciPy · pandas                                |
+| Process Simulation     | Aspen Plus · Aspen Hysys · DWSIM                     |
+| Molecular Informatics  | RDKit · SMARTS                                         |
+| Optimization           | Multi-objective Optimization · Evolutionary Algorithms |
+| Software Engineering   | MVC · Modular Architectures                            |
+| Data Engineering       | MongoDB · Excel Automation                             |
+
+</div>
+
+---
+
+# 📊 Engineering Interests
+
+```mermaid
+mindmap
+  root((Engineering))
+    Scientific Software
+    Process Systems Engineering
+    Thermodynamics
+    Molecular Design
+    Optimization
+    Industrial Simulation
+    Digital Engineering
+    Scientific Infrastructure
+```
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔬 Research & Technical Interests
+
+- Computational Thermodynamics
+- Scientific Software Engineering
+- Industrial AI-assisted Engineering
+- Optimization-driven Process Design
+- Process Systems Engineering
+- Molecular Design Frameworks
+- Engineering Workflow Automation
+
+---
+
+# 🌐 Connect
+
+<p align="left">
+
+<a href="https://github.com/TU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/TU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:victoroa.13@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Philosophy
+
+> Engineering models should not only compute correctly —
+> they should preserve structure, expose assumptions,
+> and support technically rigorous decision-making.
+>
